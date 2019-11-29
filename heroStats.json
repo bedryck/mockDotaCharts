@@ -1,5 +1,8 @@
 [
     {
+        "url": "http://cdn.dota2.com/apps/dota2/images/heroes/antimage_full.png"
+    },
+    {
         "id": 1,
         "name": "npc_dota_hero_antimage",
         "localized_name": "Anti-Mage",
