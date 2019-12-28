@@ -4061,6 +4061,7 @@
     },
     "126": {
         "name": "npc_dota_hero_void_spirit",
+        "localized_name": "Void Spirit",
         "primary_attr": "int",
         "attack_type": "Melee",
         "roles": [
@@ -4096,6 +4097,7 @@
     "128": {
         "name": "npc_dota_hero_snapfire",
         "primary_attr": "str",
+        "localized_name": "Snapfire",
         "attack_type": "Ranged",
         "roles": [
             "Support",
